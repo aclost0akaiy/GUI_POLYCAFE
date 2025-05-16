@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\DAL_POLYCAFE\\DBUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL_POLYCAFE\\DBUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CA1354-AB9C-4F87-9D2D-EE5175DD4BE5}|GUI_POLYCAFE\\GUI_POLYCAFE.csproj|c:\\visual studio\\net02_ds1904lab\\assignment\\lab3\\gui_polycafe\\gui_polycafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CA1354-AB9C-4F87-9D2D-EE5175DD4BE5}|GUI_POLYCAFE\\GUI_POLYCAFE.csproj|solutionrelative:gui_polycafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CA1354-AB9C-4F87-9D2D-EE5175DD4BE5}|GUI_POLYCAFE\\GUI_POLYCAFE.csproj|c:\\visual studio\\net02_ds1904lab\\assignment\\lab3\\gui_polycafe\\gui_polycafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CA1354-AB9C-4F87-9D2D-EE5175DD4BE5}|GUI_POLYCAFE\\GUI_POLYCAFE.csproj|solutionrelative:gui_polycafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CA1354-AB9C-4F87-9D2D-EE5175DD4BE5}|GUI_POLYCAFE\\GUI_POLYCAFE.csproj|C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\gui_polycafe\\frommain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CA1354-AB9C-4F87-9D2D-EE5175DD4BE5}|GUI_POLYCAFE\\GUI_POLYCAFE.csproj|solutionrelative:gui_polycafe\\frommain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CA1354-AB9C-4F87-9D2D-EE5175DD4BE5}|GUI_POLYCAFE\\GUI_POLYCAFE.csproj|C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\gui_polycafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05CA1354-AB9C-4F87-9D2D-EE5175DD4BE5}|GUI_POLYCAFE\\GUI_POLYCAFE.csproj|solutionrelative:gui_polycafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\BLL_POLYCSAFE\\BUSNhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL_POLYCSAFE\\BUSNhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\DTO_POLYCAFE\\NhANVIEN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO_POLYCAFE\\NhANVIEN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\DAL_POLYCAFE\\DAL_NHANVIEN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL_POLYCAFE\\DAL_NHANVIEN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\GUI_POLYCAFE\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI_POLYCAFE\\Form1.cs",
+              "ToolTip": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\GUI_POLYCAFE\\Form1.cs",
+              "RelativeToolTip": "GUI_POLYCAFE\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:04:08.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BUSNhanVien.cs",
+              "DocumentMoniker": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\BLL_POLYCSAFE\\BUSNhanVien.cs",
+              "RelativeDocumentMoniker": "BLL_POLYCSAFE\\BUSNhanVien.cs",
+              "ToolTip": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\BLL_POLYCSAFE\\BUSNhanVien.cs",
+              "RelativeToolTip": "BLL_POLYCSAFE\\BUSNhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:54:25.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\DAL_POLYCAFE\\DBUtil.cs",
+              "RelativeDocumentMoniker": "DAL_POLYCAFE\\DBUtil.cs",
+              "ToolTip": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\DAL_POLYCAFE\\DBUtil.cs",
+              "RelativeToolTip": "DAL_POLYCAFE\\DBUtil.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:40:41.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\GUI_POLYCAFE\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI_POLYCAFE\\Form1.cs",
+              "ToolTip": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\GUI_POLYCAFE\\Form1.cs [Design]",
+              "RelativeToolTip": "GUI_POLYCAFE\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:15:12.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhANVIEN.cs",
+              "DocumentMoniker": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\DTO_POLYCAFE\\NhANVIEN.cs",
+              "RelativeDocumentMoniker": "DTO_POLYCAFE\\NhANVIEN.cs",
+              "ToolTip": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\DTO_POLYCAFE\\NhANVIEN.cs",
+              "RelativeToolTip": "DTO_POLYCAFE\\NhANVIEN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:34:46.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DAL_NHANVIEN.cs",
+              "DocumentMoniker": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\DAL_POLYCAFE\\DAL_NHANVIEN.cs",
+              "RelativeDocumentMoniker": "DAL_POLYCAFE\\DAL_NHANVIEN.cs",
+              "ToolTip": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\DAL_POLYCAFE\\DAL_NHANVIEN.cs",
+              "RelativeToolTip": "DAL_POLYCAFE\\DAL_NHANVIEN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:34:15.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frommain.cs [Design]",
+              "DocumentMoniker": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\GUI_POLYCAFE\\Frommain.cs",
+              "RelativeDocumentMoniker": "GUI_POLYCAFE\\Frommain.cs",
+              "ToolTip": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\GUI_POLYCAFE\\Frommain.cs [Design]",
+              "RelativeToolTip": "GUI_POLYCAFE\\Frommain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:33:47.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\GUI_POLYCAFE\\Program.cs",
+              "RelativeDocumentMoniker": "GUI_POLYCAFE\\Program.cs",
+              "ToolTip": "C:\\visual studio\\NET02_DS1904LAB\\assignment\\LAB3\\GUI_POLYCAFE\\GUI_POLYCAFE\\Program.cs",
+              "RelativeToolTip": "GUI_POLYCAFE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:30:16.384Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

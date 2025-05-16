@@ -1,0 +1,17 @@
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\bin\Debug\net8.0\BLL_POLYCSAFE.deps.json
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\bin\Debug\net8.0\BLL_POLYCSAFE.dll
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\bin\Debug\net8.0\BLL_POLYCSAFE.pdb
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\bin\Debug\net8.0\DAL_POLYCAFE.dll
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\bin\Debug\net8.0\DTO_POLYCAFE.dll
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\bin\Debug\net8.0\DAL_POLYCAFE.pdb
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\bin\Debug\net8.0\DTO_POLYCAFE.pdb
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\obj\Debug\net8.0\BLL_POLYCSAFE.csproj.AssemblyReference.cache
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\obj\Debug\net8.0\BLL_POLYCSAFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\obj\Debug\net8.0\BLL_POLYCSAFE.AssemblyInfoInputs.cache
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\obj\Debug\net8.0\BLL_POLYCSAFE.AssemblyInfo.cs
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\obj\Debug\net8.0\BLL_POLYCSAFE.csproj.CoreCompileInputs.cache
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\obj\Debug\net8.0\BLL_POLY.7AC0773E.Up2Date
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\obj\Debug\net8.0\BLL_POLYCSAFE.dll
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\obj\Debug\net8.0\refint\BLL_POLYCSAFE.dll
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\obj\Debug\net8.0\BLL_POLYCSAFE.pdb
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\BLL_POLYCSAFE\obj\Debug\net8.0\ref\BLL_POLYCSAFE.dll

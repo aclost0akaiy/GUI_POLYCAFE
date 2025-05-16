@@ -1,0 +1,15 @@
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\bin\Debug\net8.0\DAL_POLYCAFE.deps.json
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\bin\Debug\net8.0\DAL_POLYCAFE.dll
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\bin\Debug\net8.0\DAL_POLYCAFE.pdb
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\bin\Debug\net8.0\DTO_POLYCAFE.dll
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\bin\Debug\net8.0\DTO_POLYCAFE.pdb
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\obj\Debug\net8.0\DAL_POLYCAFE.csproj.AssemblyReference.cache
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\obj\Debug\net8.0\DAL_POLYCAFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\obj\Debug\net8.0\DAL_POLYCAFE.AssemblyInfoInputs.cache
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\obj\Debug\net8.0\DAL_POLYCAFE.AssemblyInfo.cs
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\obj\Debug\net8.0\DAL_POLYCAFE.csproj.CoreCompileInputs.cache
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\obj\Debug\net8.0\DAL_POLY.8CCB017D.Up2Date
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\obj\Debug\net8.0\DAL_POLYCAFE.dll
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\obj\Debug\net8.0\refint\DAL_POLYCAFE.dll
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\obj\Debug\net8.0\DAL_POLYCAFE.pdb
+C:\visual studio\NET02_DS1904LAB\assignment\LAB3\GUI_POLYCAFE\DAL_POLYCAFE\obj\Debug\net8.0\ref\DAL_POLYCAFE.dll
